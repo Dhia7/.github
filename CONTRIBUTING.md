@@ -1,4 +1,4 @@
-# The Odin Project Contributing Guide
+# The Odinn Project Contributing Guide
 
 Thank you for expressing interest in contributing to The Odin Project (TOP)! Whether you are a first time contributor or you have made several contributions to our repos, please be sure to read this guide thoroughly before contributing as it will lessen the chances of any issues arising during the process.
 
